@@ -1,2 +1,2 @@
-# Print-f
-just learning how github works
+# Fine tuning FlanT5
+Fine-tuning Flan for classification 
